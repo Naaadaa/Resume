@@ -8,4 +8,4 @@ A resume dynamically populated from a JSON file.
 - js/resumeBuilder.js: This file contains the code and data needed to build the resume.
 
 # live demo
-[click Here](https://naaadaa.github.io/Resume/index.html) 
+[click Here](https://naaadaa.github.io/Resume-builder/) 
